@@ -1,7 +1,5 @@
 *"Beauty will save the world"* - Fyodor Dostoevsky
 
-https://Genesis.Gift
-
 https://GenesisL1.com
 
 ## **TERMS AND CONDITIONS**

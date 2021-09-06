@@ -2,6 +2,12 @@
 
 https://GenesisL1.com
 
+ERC-20 Genesis L1 0xe328d8daa44b766f8a2e04e0479f6b316c0bf290
+
+Genesis L1 DAO (commons asset) https://app.daohaus.club/dao/0x1/0x23fe7836da91f46051fb0fed622277fe93ddde39
+
+Creators Gifts and Sci quests distribution https://etherscan.io/tx/0x68aeae3c6caf460be582dd072c03f99ffa732278668902e7b7a5e276547837ae
+
 ## **TERMS AND CONDITIONS**
 
 THE FOLLOWING OPEN SOURCE CODES AND IDEAS, AND ITS IMPLEMENTATIONS WITH OPEN SOURCE CODES ARE STRICTLY EXPERIMENTAL AND POSES ONLY THE VALUE OF EXPERIMENT BY DEFAULT. 

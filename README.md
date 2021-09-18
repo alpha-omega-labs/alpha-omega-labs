@@ -8,6 +8,11 @@ Genesis L1 DAO (commons asset) https://app.daohaus.club/dao/0x1/0x23fe7836da91f4
 
 Creators Gifts and Sci quests distribution https://etherscan.io/tx/0x68aeae3c6caf460be582dd072c03f99ffa732278668902e7b7a5e276547837ae
 
+## **EASY AND MOST IMPORTANT EXPLANATION**
+Gₑₙₑₛᵢₛ ₗ₁ ᵢₛ ⱼᵤₛₜ ₐ ₙₑₓₜ ᵤₛₑ 𝄴ₐₛₑ ₒ𝆑 ᵦₗₒ𝄴ₖ𝄴ₕₐᵢₙ ₜₑ𝄴ₕₙₒₗₒGY․ BEYOND MONEY. ABOVE MONEY.
+
+ᵦₗₒ𝄴ₖ𝄴ₕₐᵢₙ ₜₑ𝄴ₕₙₒₗₒGY ₛₜₐᵣₜₑD ₐₙD ₛₜᵢₗₗ ₑₓᵢₛₜ ₘₒₛₜₗY 𝆑ₒᵣ ₘₒₙₑₜₐᵣY ᵥₐₗᵤₑ ₒᵣ ᵣᵢGₕₜₛ ₜᵣₐₙₛ𝆑ₑᵣ․ ₘₑₐₙWₕᵢₗₑ, ᵦₗₒ𝄴ₖ𝄴ₕₐᵢₙₛ ᵦₑ𝄴ₒₘᵢₙG Dₐₚₚₛ ₛₚₑ𝄴ᵢ𝆑ᵢ𝄴․ Gₑₙₑₛᵢₛ ₗ₁ ᵢₛ ₛₚₑ𝄴ᵢ𝆑ᵢ𝄴 ₜₒ ₐᵣₜₛ ₍ₙ𝆑ₜ₎ ₐₙD ₛ𝄴ᵢₑₙ𝄴ₑ ₍𝄴ₒₘₚᵤₜₑᵣ ₛ𝄴ᵢₑₙ𝄴ₑ, ᵦᵢₒᵢₙ𝆑ₒᵣₘₐₜᵢ𝄴ₛ Dₐₜₐᵦₐₛₑₛ ₐₙD Qᵤₑᵣᵢₑₛ₎․ ᵢₜₛ ₐₙ ₑₓₚₑᵣᵢₘₑₙₜₐₗ ᵣₑₙₐᵢₛₛₐₙ𝄴ₑ ᵢₙ ᵦₗₒ𝄴ₖ𝄴ᵥₕₐᵢₙ․ ᵣᵤₙₙᵢₙG ᵦY ₐ ᵣₐₙDₒₘₗY 𝆑ₒᵣₘₑD 𝄴ₒₘₘᵤₙᵢₜY ₐₙD ₚₒWₑᵣₑD ᵦY ₐ ᵣₐₙDₒₘₗY Gᵢ𝆑ₜₑD ₐₙD/ₒᵣ ₐₛ ₐ Gₐₘₑ ᵣₑₛᵤₗₜₛ Gᵢ𝆑ₜₑD ₍ₛ𝄴ᵢ Qᵤₑₛₜ₎ "Gₑₙₑₛᵢₛ ₗ₁" ₜₒₖₑₙₛ․ ₂₁₀₀₀₀₀₀ ₗ₁ Gᵢ𝆑ₜₛ ₐₙD ₛ𝄴ᵢ Qᵤₑₛₜ ₛᵤₚₚₗY․ ₁₀₀₀₀₀₀₀₀ ₗ₁ GᵣₐₙD ₜₒₜₐₗ ₛᵤₚₚₗY․ "Gₑₙₑₛᵢₛ ₗ₁" ₜₒₖₑₙ ᵢₛ ₐₙ ᵤₜᵢₗᵢₜY ₜₒₖₑₙₛ Wᵢₜₕ ₘₐₙY 𝄴ₒₙ𝄴ᵣₑₜₑ ᵤₜᵢₗᵢₜᵢₑₛ, ₛᵤ𝄴ₕ ₐₛ: ₜᵣₐₙₛᵢₜᵢₒₙ ₜₒ Gₑₙₑₛᵢₛ ₗ₁ ₗₐYₑᵣ ₒₙₑ ᵦₗₒ𝄴ₖ𝄴ₕₐᵢₙ ᵦₐₛₑD ₒₙ ₑₜₕₑᵣₘᵢₙₜ ₛₒᵤᵣ𝄴ₑ 𝄴ₒDₑₛ, ₚₒWₑᵣᵢₙG ᵥₒₜᵢₙG ₐₙD ₚᵣₒₚₒₛₐₗₛ ᵥᵢₐ ₛₘₐᵣₜ 𝄴ₒₙₜᵣₐ𝄴ₜₛ, ₛₑ𝄴ᵤᵣᵢₙG ₒWₙ ᵦₗₒ𝄴ₖ𝄴ₕₐᵢₙ, ₚₒWₑᵣᵢₙG ᵥₒₜᵢₙG ₐₙD ₚᵣₒₚₒₛₐₗₛ ₒₙ ₒWₙ ᵦₗₒ𝄴ₖ𝄴ₕₐᵢₙ, ₚₒWₑᵣᵢₙG ᵥₑᵣᵢ𝆑ᵢₑD ₐₙD ₑₓₚₑᵣᵢₘₑₙₜₐₗ ᵦᵢₒᵢₙ𝆑ₒᵣₘₐₜᵢ𝄴ₛ Dₐₜₐᵦₐₛₑₛ Dᵢₛₜᵣᵢᵦᵤₜᵢₒₙ, ₚₒWₑᵣᵢₙG ₛ𝄴ᵣᵢₚₜₛ ₐₙD Qᵤₑᵣᵢₑₛ ₜₒ ₜₕₒₛₑ Dₐₜₐᵦₐₛₑₛ, ₚₒWₑᵣᵢₙG ᵦₗₒ𝄴ₖ𝄴ₕₐᵢₙ ₐᵣₜₛ 𝄴ᵣₑₐₜᵢₒₙ ₍ₙ𝆑ₜ₎ ₐₙD GᵢᵥᵢₙG ₐᵣₜᵢₛₜₛ ₐₙD ₛ𝄴ᵢₑₙₜᵢₛₜₛ ₐᵦᵢₗᵢₜY ₜₒ ₕₐᵥₑ ₑₙᵥᵢᵣₒₙₘₑₙₜ․ ₑₜₕₑᵣₘᵢₙₜ 𝄴ₐₙ ᵦₑ Dₑₛ𝄴ᵣᵢᵦₑD ₐₛ ₐ 𝄴ₒₛₘₒₛ ₛDₖ Wᵢₜₕ ₜₕₑ ₑᵥₘ ₍ₑₜₕₑᵣₑᵤₘ ᵥᵢᵣₜᵤₐₗ ₘₐ𝄴ₕᵢₙₑ₎ ₘₒDᵤₗₑ․ ₑₛₛₑₙₜᵢₐₗₗY, Gₑₙₑₛᵢₛ ₗ₁ ᵢₛ ₐ Dₑ𝄴ₑₙₜᵣₐₗᵢ𝆎ₑD ₑₜₕₑᵣₑᵤₘ₋ₐₗᵢₖₑ ₍ᵤₛᵢₙG ₑᵥₘ, ᵣᵤₙₙᵢₙG ₛₒₗᵢDᵢₜY ₛₘₐᵣₜ 𝄴ₒₙₜᵣₐ𝄴ₜₛ, ₕₐᵥᵢₙG ₑQᵤₐₗ ₐₚᵢ 𝆑ₒᵣ ₛₒ𝆑ₜWₐᵣₑ ₗᵢₖₑ ₘₑₜₐₘₐₛₖ₎ ᵦₗₒ𝄴ₖ𝄴ₕₐᵢₙ 𝆑ₒᵣ ₐᵣₜₛ ₐₙD ₛ𝄴ᵢₑₙ𝄴ₑₛ ₜₕₐₜ ᵢₛ ᵣᵤₙₙᵢₙG ᵦY ₚₑₒₚₗₑ ₐₙD 𝆑ₒᵣ ₚₑₒₚₗₑ․
+
 ## **TERMS AND CONDITIONS**
 
 THE FOLLOWING OPEN SOURCE CODES AND IDEAS, AND ITS IMPLEMENTATIONS WITH OPEN SOURCE CODES ARE STRICTLY EXPERIMENTAL AND POSES ONLY THE VALUE OF EXPERIMENT BY DEFAULT. 
@@ -17,10 +22,7 @@ DON'T USE THE FOLLOWING OPEN SOURCE SOFTWARE UNLESS YOU WANT TO EXPERIMENT WITH 
 
 ## **EXPERIMENT**
 
-IMPLEMENT NEW GENERAL SCALABLE, HIGH-THROUGHPUT DECENTRALIZED LAYER 1 BLOCKCHAIN WITH FAST TRANSACTION FINALITY, ETHEREUM EVM & WEB3 COMPATIBILITY, FOR RUNNING ART (NFT) AND GAMES DAPPS, SCIENTIFIC DAPPS & OTHER DAPPS.
-
-## **MORE INFO**
-GENESIS IS A PLANNED BLOCKCHAIN AGNOSTIC EXPERIMENTAL ENVIRONMENT THAT USE ETHERMINT AND COSMOS SDK AS LAYER 1 CORE AND SUBSTRATE2 ASSOCIATED PROJECTS AS A PERIPHERY. 
+IMPLEMENT NEW GENERAL SCALABLE, HIGH-THROUGHPUT DECENTRALIZED LAYER 1 BLOCKCHAIN WITH FAST TRANSACTION FINALITY, ETHEREUM EVM & WEB3 COMPATIBILITY, FOR RUNNING ART (NFT) AND SCIENCE DAPPS.
 
 ## **PROCESS AND METHODS**
 
@@ -35,9 +37,9 @@ GENESIS IS A PLANNED BLOCKCHAIN AGNOSTIC EXPERIMENTAL ENVIRONMENT THAT USE ETHER
 ## **"GENESIS" TOKEN**
 
 + 21M TOKENS, AS A NUMBER CHOSEN BY SATOSHI NAKAMOTO.
-+ 10M TOKENS TO DMT RANDOMLY SELECTED SNAPSHOT - LP WEIGHT ALLOCATED TO COMMUNITY MULTISIG.
-+ 10M TOKENS TO DKUMA RANDOMLY SELECTED SNAPSHOT - LP WEIGHT ALLOCATED TO COMMUNITY MULTISIG.
-+ 1M TOKENS TO MULTISIG ADDRESS OF BOTH TOKEN COMMUNITIES + LP WEIGHT ALLOCATED FROM DMT LP AND DKUMA LP.
++ 10M TOKENS TO DMT RANDOMLY SELECTED SNAPSHOT, PART TO "CREATORS" GIFTS.
++ 10M TOKENS TO DKUMA RANDOMLY SELECTED SNAPSHOT, PART TO "CREATORS" GIFTS.
++ 1M SCI QUEST
 
 ## **NOTES**
 
@@ -147,7 +149,7 @@ SEP, 2021
 ## **FIRST BRIEF VIEW ON NEW BLOCKCHAINOMICS**
 
 + MAX. "GENESIS" SUPPLY: 21M
-+ "GENESIS" SUPPLY SOURCE: SNAPSHOTS OF DMT(10M) AND DKUMA (10M), COMMUNITY MULTISIG ADDRESS (1M) 
++ "GENESIS" INITIAL SUPPLY SOURCE: GIFTS
 + MAX. TOTAL SUPPLY CAP: 100M
 + APPROX. BLOCK TIME: 7 SECONDS
 + APPROX. BLOCKS PER DAY: 12345 BLOCKS
@@ -156,7 +158,7 @@ SEP, 2021
 + APPROX. 24H NEW DISTRIBUTION: 12345 TOKENS
 + APPROX. ANNUAL NEW DISTRIBUTION: 4.5M TOKENS
 + APPROX. TIME BEFORE NEW DISTRIBUTION ENDS (MAX. SUPPLY): 18 YEARS
-+ NUMBER OF BLOCK VALIDATORS: 199 OR MORE
++ NUMBER OF BLOCK VALIDATORS: 42, 64, 128, 256, 300
 + NUMBER OF DELEGATORS: UNLIMITED
 
 **ALPHA-OMEGA-LABS IS NOT AFFILIATED WITH ANY DEVELOPER OR SERVICE OF ANY KIND OR ANY COMPANY**

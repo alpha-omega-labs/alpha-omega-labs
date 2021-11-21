@@ -41,7 +41,7 @@ Genesis L1 is experimental decentralized blockchain project that is powered by t
 <div align="center"><h2>GENESIS L1 MAINNET:</h2></div>
 
 To connect to Genesis L1 testnet with metamask or other geth compatible software, you can use the following endpoints
-+ Network Name: Genesis L1 Testnet
++ Network Name: Genesis L1
 + New RPC URL: https://rpc.genesisl1.org/
 + Chain ID: 29
 + Currency Symbol (optional): L1

@@ -76,7 +76,7 @@ amount must be specified in minimal coin units (aphoton, like wei in Ethereum): 
 </br>
 comission rate must be specified in range from 0.01 to 0.99, where 0.01 = 1% and 0.99 = 99%, for example if you want commission rate = 5%, it should be specified as 0.05 in script
 Example of starting validator node with 10000L1 staked with private key from address where 100001L1 are stored with 10% validator commission rate:</br>
-<code>sh validator.sh pepe 9bb98bc160504838542d40366f731dcb765e1c0c7f19847b4ccd65f35f229747 10000000000000000000000 0.1</code>
+<code>sh testnet-validator.sh pepe 9bb98bc160504838542d40366f731dcb765e1c0c7f19847b4ccd65f35f229747 10000000000000000000000 0.1</code>
 
 
 <div align="center"><h2>GENESIS L1 TESTNET:</h2></div>
@@ -114,7 +114,7 @@ amount must be specified in minimal coin units (aphoton, like wei in Ethereum): 
 </br>
 comission rate must be specified in range from 0.01 to 0.99, where 0.01 = 1% and 0.99 = 99%, for example if you want commission rate = 5%, it should be specified as 0.05 in script
 Example of starting validator node with 10000L1 staked with private key from address where 100001L1 are stored with 10% validator commission rate:</br>
-<code>sh validator.sh pepe 9bb98bc160504838542d40366f731dcb765e1c0c7f19847b4ccd65f35f229747 10000000000000000000000 0.1</code>
+<code>sh mainnet-validator.sh pepe 9bb98bc160504838542d40366f731dcb765e1c0c7f19847b4ccd65f35f229747 10000000000000000000000 0.1</code>
 
 GENESIS L1 IS EXPERIMENTAL DECENTRALIZED OPEN SOURCE PROJECT, PROVIDED AS IS, WITH NO WARRANTY.
 

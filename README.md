@@ -52,7 +52,7 @@ To connect to Genesis L1 testnet with metamask or other geth compatible software
 
 <div align="center"><h3>Genesis L1 Mainnet node install script</h3></div>
 
-+ <code>git clone --branch release/v0.3.x https://github.com/alpha-omega-labs/genesisL1.git </code>
++ <code>git clone https://github.com/alpha-omega-labs/genesisL1.git </code>
 + <code>cd genesisL1</code>
 + <code>sh mainnet-node.sh mynewnodename</code>
 
@@ -61,9 +61,9 @@ Set your own node name and put it to <strong>mynewnodename</strong>
 <div align="center"><h3>Genesis L1 Mainnet validator install script</h3></div>
 THIS SCRIPT WILL SETUP YOUR VALIDATOR AUTOMATICALLY WITHOUT SECURITY IN MIND: </br> 
 Will install your Genesis L1 Mainnet validator node, sync it, import your Ethereum private key and create validator with specified amount of self staked L1 coins and specified validator commission.</br>
+Please, with on Ubuntu 18/20. 
 
-
-+ <code>git clone --branch release/v0.3.x https://github.com/alpha-omega-labs/genesisL1.git </code>
++ <code>git clone https://github.com/alpha-omega-labs/genesisL1.git </code>
 + <code>cd genesisL1</code>
 + <code>sh mainnet-validator.sh mynewnodename ETHEREUM-PRIVATE-KEY amount commission</code>
 
@@ -76,7 +76,7 @@ amount must be specified in minimal coin units (aphoton, like wei in Ethereum): 
 </br>
 comission rate must be specified in range from 0.01 to 0.99, where 0.01 = 1% and 0.99 = 99%, for example if you want commission rate = 5%, it should be specified as 0.05 in script
 Example of starting validator node with 10000L1 staked with private key from address where 100001L1 are stored with 10% validator commission rate:</br>
-<code>sh validator.sh pepe 9bb98bc160504838542d40366f731dcb765e1c0c7f19847b4ccd65f35f229747 10000000000000000000000 0.1</code>
+<code>sh mainnet-validator.sh pepe 9bb98bc160504838542d40366f731dcb765e1c0c7f19847b4ccd65f35f229747 10000000000000000000000 0.1</code>
 
 
 <div align="center"><h2>GENESIS L1 TESTNET:</h2></div>
@@ -90,7 +90,7 @@ To connect to Genesis L1 testnet with metamask or other geth compatible software
  
 <div align="center"><h3>Genesis L1 Testnet node install script</h3></div>
 
-+ <code>git clone --branch release/v0.3.x https://github.com/alpha-omega-labs/genesisL1.git </code>
++ <code>git clone https://github.com/alpha-omega-labs/genesisL1.git </code>
 + <code>cd genesisL1</code>
 + <code>sh testnet-node.sh mynewnodename</code>
 
@@ -101,7 +101,7 @@ THIS SCRIPT WILL SETUP YOUR VALIDATOR AUTOMATICALLY WITHOUT SECURITY IN MIND: </
 Will install your Genesis L1 Testnet validator node, sync it, import your Ethereum private key and create validator with specified amount of self staked L1 coins and specified validator commission.</br>
 
 
-+ <code>git clone --branch release/v0.3.x https://github.com/alpha-omega-labs/genesisL1.git </code>
++ <code>git clone https://github.com/alpha-omega-labs/genesisL1.git </code>
 + <code>cd genesisL1</code>
 + <code>sh testnet-validator.sh mynewnodename ETHEREUM-PRIVATE-KEY amount commission</code>
 
@@ -114,6 +114,6 @@ amount must be specified in minimal coin units (aphoton, like wei in Ethereum): 
 </br>
 comission rate must be specified in range from 0.01 to 0.99, where 0.01 = 1% and 0.99 = 99%, for example if you want commission rate = 5%, it should be specified as 0.05 in script
 Example of starting validator node with 10000L1 staked with private key from address where 100001L1 are stored with 10% validator commission rate:</br>
-<code>sh validator.sh pepe 9bb98bc160504838542d40366f731dcb765e1c0c7f19847b4ccd65f35f229747 10000000000000000000000 0.1</code>
+<code>sh testnet-validator.sh pepe 9bb98bc160504838542d40366f731dcb765e1c0c7f19847b4ccd65f35f229747 10000000000000000000000 0.1</code>
 
 GENESIS L1 IS EXPERIMENTAL DECENTRALIZED OPEN SOURCE PROJECT, PROVIDED AS IS, WITH NO WARRANTY.

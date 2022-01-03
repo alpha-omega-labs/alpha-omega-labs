@@ -3,6 +3,8 @@
 https://GenesisL1.com <br>
 https://GenesisL1.io
 
+noob powered under root! 
+
 Genesis L1 is a planned, highly experimental, Cosmos SDK and Ethereum EVM (Ethermint engine) powered Layer 1 blockchain made for Arts (NFT) and in silico biomedicine. Universal and efficient environment for creators, scientists and inventors, where you are the owner of own decentralized space, cooperating with others. All initial Genesis L1 tokens - 21 MILLION - were/is/will be gifted to a random people, mostly from average blockchain users community and NFT/dapps creators community, in a different forms, including solidity smart contracts DAO token gifts @ Ethereum blockchain and @ xdai blockchain. L1 tokens have no value of any kind by default and are strictly utility tokens with many concrete utilities essential for Genesis L1. 
 Now L1 exist at three different blockchains: Ethereum, xdai, BSC. All connected via Omni Bridge.
 

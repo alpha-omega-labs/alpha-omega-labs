@@ -61,15 +61,16 @@ To connect to Genesis L1 testnet with metamask or other geth compatible software
 Set your own node name and put it to <strong>mynewnodename</strong>
 
 <div align="center"><h3>Genesis L1 Mainnet validator install script</h3></div>
-THIS SCRIPT WILL SETUP YOUR VALIDATOR AUTOMATICALLY WITHOUT SECURITY IN MIND: </br> 
-Will install your Genesis L1 Mainnet validator node, sync it, import your Ethereum private key and create validator with specified amount of self staked L1 coins and specified validator commission.</br>
+create-validator.sh in genesisL1 project folder</br> 
+
+THIS SCRIPT WILL CREATE VALIDATOR FROM YOUR GENESISL1 NODE </br> 
 Please, with on Ubuntu 18/20. 
 
 + <code>git clone https://github.com/alpha-omega-labs/genesisL1.git </code>
 + <code>cd genesisL1</code>
-+ <code>sh mainnet-validator.sh mynewnodename ETHEREUM-PRIVATE-KEY amount commission</code>
++ <code>sh create-validator.sh YOUR_VALIDATOR_NAME YOUR_PRIVATE_KEY AMOUNT_STAKED COMISSION_RATE</code>
 
-*ETHEREUM-PRIVATE-KEY is a private key from your Ethereum address (public key) where your L1 are stored. </br>
+*YOUR_PRIVATE_KEY is a private key from your Ethereum address (public key) where your L1 are stored (in genesisL1 mainnet!!!). </br>
 <strong>!!!USE NEW SEPARATE KEY FOR L1!!! </strong>
 </br>
 amount must be specified in minimal coin units (aphoton, like wei in Ethereum): </br>
@@ -77,9 +78,19 @@ amount must be specified in minimal coin units (aphoton, like wei in Ethereum): 
 1 L1 = 1 000 000 000 000 000 000 aphoton
 </br>
 comission rate must be specified in range from 0.01 to 0.99, where 0.01 = 1% and 0.99 = 99%, for example if you want commission rate = 5%, it should be specified as 0.05 in script
-Example of starting validator node with 10000L1 staked with private key from address where 100001L1 are stored with 10% validator commission rate:</br>
-<code>sh mainnet-validator.sh pepe 9bb98bc160504838542d40366f731dcb765e1c0c7f19847b4ccd65f35f229747 10000000000000000000000 0.1</code>
-
+This script will create your new genesisL1 validator.</br>
+You should run this script on fully synchronized node.</br>
+sh mainnet-node.sh</br>
+You can check status of your node service with:</br>
+service genesis status</br>
+This script should be running with arguments:</br>
+-YOUR_VALIDATOR_NAME</br>
+-YOUR_PRIVATE_KEY (please, use NEW keys to avoid issues!!!)</br>
+-AMOUNT_STAKED (in aphoton, 1aphoton = 1wei)</br>
+-COMISSION_RATE(0.01 = 1%; 0.99 = 99%)</br>
+Be ready to submit new password to encrypt your key and remember it. </br>
+Example that will create validator named "supervalidator" with 1000L1 self stake and 10% comission:</br>
+sh create-validator.sh supervalidator 58a86862565e596bcf185d699ef4db6a8f02f6696f4a3fe6ff5cf5c0b451c866 1000000000000000000000 0.1
 
 <div align="center"><h2>GENESIS L1 TESTNET:</h2></div>
 

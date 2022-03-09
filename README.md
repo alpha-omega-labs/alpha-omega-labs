@@ -1,4 +1,4 @@
-*"Living matter is the most powerful geological force."* - Vladimir Vernadsky
+*"Living matter is the most powerful geological force"* - Vladimir Vernadsky
 
 https://GenesisL1.com <br>
 

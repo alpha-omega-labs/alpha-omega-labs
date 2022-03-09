@@ -8,7 +8,8 @@ https://MolNFT.io
 
 https://MolNFT.org
 
-https://explorer.GenesisL1.com
+https://explorer.GenesisL1.org
+
 
 noob powered under root! 
 

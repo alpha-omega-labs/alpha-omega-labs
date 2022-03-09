@@ -1,5 +1,4 @@
-*"Beauty will save the world"* - Fyodor Dostoevsky
-
+*"Living matter is the most powerful geological force."* - Vladimir Vernadsky
 https://GenesisL1.com <br>
 https://GenesisL1.io
 

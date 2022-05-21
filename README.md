@@ -1,4 +1,7 @@
 *"Living matter is the most powerful geological force"* - Vladimir Vernadsky
+<h3>noob powered under root!</h3>
+<h3>NOT professional blockchain</h3>
+<h3>Valueless, utilitarian, experimental. NOT investemnt asset!</h3>
 
 https://GenesisL1.com <br>
 

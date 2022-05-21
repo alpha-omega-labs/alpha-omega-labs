@@ -1,7 +1,10 @@
 *"Living matter is the most powerful geological force"* - Vladimir Vernadsky
-<h3>noob powered under root!</h3>
-<h3>NOT professional blockchain</h3>
-<h3>Valueless, utilitarian, experimental. NOT investemnt asset!</h3>
+
+<strong>Noob powered under root!</strong>
+
+<strong>NOT professional blockchain</strong>
+
+<strong>Valueless, utilitarian, experimental. NOT investemnt asset!</strong>
 
 https://GenesisL1.com <br>
 
@@ -12,6 +15,8 @@ https://MolNFT.io
 https://MolNFT.org
 
 https://explorer.GenesisL1.org
+
+https://ping.pub/genesisL1
 
 
 noob powered under root! 

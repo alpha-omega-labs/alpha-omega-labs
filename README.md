@@ -2,7 +2,7 @@
 
 <strong>Noob powered under root!</strong>
 
-<strong>NOT professional blockchain</strong>
+<strong>Enthusiastic blockchain</strong>
 
 <strong>Valueless, utilitarian, experimental. NOT investemnt asset!</strong>
 

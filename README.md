@@ -6,18 +6,21 @@
 
 <strong>Valueless, utilitarian, experimental. NOT investemnt asset!</strong>
 
-https://GenesisL1.com <br>
+https://GenesisL1.com  - website
 
-https://GenesisL1.io
+https://L1coin.org - another website
 
-https://MolNFT.io
+https://DatasetNFT.org - NFTized datasets for machine learning (Proteinnet) (In Progress)
 
-https://MolNFT.org
+https://MolNFT.io - service to NFTize molecular structures .pdb and .cif files (MVP)
 
-https://explorer.GenesisL1.org
+https://MolNFT.org - Collections of NFTized databased such as PDB bank and Alphafold with tools (In progress)
 
-https://ping.pub/genesisL1
+https://explorer.GenesisL1.org - light EVM blockchain explorer
 
+https://ping.pub/genesisL1 - Web3 light Cosmos blockchain explorer, staking and governance dashboard
+
+https://github.com/alpha-omega-labs/genesisd - genesisd full node and installation shell scripts
 
 noob powered under root! 
 

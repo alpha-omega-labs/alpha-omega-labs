@@ -42,3 +42,5 @@ II. Utilities:
 L1 coin may be requested from GenesisL1 community_pool by anyone (validator, developer, artist, scientist, user, group, project, etc) with proposal to fulfill core utilities, features and applications of L1 coin. 
 
 ITS AN EXPERIMENTAL SOFTWARE AND IDEAS, AND ITS IMPLEMENTATIONS. NO WARANTY OF ANY KIND! IT MAY NOT WORK OT MAY HAVE ERRORS AND BUGS. ITS VOLUNTARY AND OPEN SOURCE.
+
+CHAIN A BIT HALTED NOW DUE TO WRONG UPDATE ATTEMPT, RECOVERING TO THE NEW VERSION OF SDK BY FORKING CRONOS, HELP APPRECIATED!
